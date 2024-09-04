@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mendydias",
+  "license": "ISC",
+  "description": "Vote tabulation and report generation endpoint",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
